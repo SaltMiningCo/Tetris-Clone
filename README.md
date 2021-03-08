@@ -1,5 +1,5 @@
 # Tetris-Clone
-This is a clone of the classic video game Tetris. Information about my implementation of the game is listed below.
+This is a clone of the classic video game Tetris. The purpose behind this is to create a controlled environment for a soon-to-be-developed Tetris AI. Information about my implementation of the game is listed below.
 
 ## Controls
 - ESC - Quit the Game
