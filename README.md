@@ -8,4 +8,4 @@ This is a clone of the classic video game Tetris. The purpose behind this is to 
 - Left, Right, Down - Move Piece in Inputted Direction
 
 ## Game Pieces
-Each game piece is represented by a 5 x 5 integer grid. Each piece is comprised of 4 blocks, each represented by a non-zero integer. In the grid, a zero indicates and empty space; a one indicates a segment of a game piece; a two indicates a pivot point of a game piece. The pivot point is the segment where each piece rotates clockwise. There are 7 game pieces: I, L, mirrored-L, N, mirrored-N, square, and T
+Each game piece is represented by a 5 x 5 integer grid. Each piece is comprised of 4 blocks where each block is represented by a non-zero integer. In the grid, a zero indicates and empty space; a one indicates a segment of a game piece; a two indicates a pivot point of a game piece. The pivot point is the segment where each piece rotates clockwise. There are 7 game pieces: I, L, mirrored-L, N, mirrored-N, square, and T
