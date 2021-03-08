@@ -7,3 +7,5 @@ Controls
 - X - Drop Piece
 - Left, Right, Down - Move Piece in Inputted Direction
 
+Game Pieces
+  Each game piece is represented on a 5 x 5 grid. A zero indicates and empty space; a one indicates a segment of a game piece; a two indicates a pivot point of a game piece. The pivot point is the segment where each piece rotates clockwise.
